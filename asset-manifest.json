@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8776958d.css",
+    "main.js": "/static/js/main.090d0b9c.js",
+    "static/js/787.5d5207fa.chunk.js": "/static/js/787.5d5207fa.chunk.js",
+    "static/media/dashboard.png": "/static/media/dashboard.70b9469bc2a7ea0cb3c7.png",
+    "static/media/speech_detection_weekly_analysis.png": "/static/media/speech_detection_weekly_analysis.75b0f4dfeed4d2a7605c.png",
+    "static/media/mouth_model.png": "/static/media/mouth_model.5acbe99ec20232863775.png",
+    "static/media/kisspng-youtube-video-streaming-media-photography-top-line-5b0f7ddd654008.-removebg-preview.png": "/static/media/kisspng-youtube-video-streaming-media-photography-top-line-5b0f7ddd654008.7549209615277419174147-removebg-preview.485d67fed650f2c9528d.png",
+    "static/media/Main_Logo_white.png": "/static/media/Main_Logo_white.ddf9c6e2d59c8ebdc5bb.png",
+    "index.html": "/index.html",
+    "main.8776958d.css.map": "/static/css/main.8776958d.css.map",
+    "main.090d0b9c.js.map": "/static/js/main.090d0b9c.js.map",
+    "787.5d5207fa.chunk.js.map": "/static/js/787.5d5207fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8776958d.css",
+    "static/js/main.090d0b9c.js"
+  ]
+}
